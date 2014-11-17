@@ -89,7 +89,7 @@
 						</div> 
 						    <div class="heading-desc">	
 							     	<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
-					       		        <a href="#" class="button button-icon button-icon-demo">Read More</a>
+					       		        <a href="#" class="button button-icon button-icon-demo">Leia mais</a>
 					       		</div>	
 				 </div>
 				<div class="col_1_of_4 span_1_of_4">
@@ -104,7 +104,7 @@
 						</div> 
 						    <div class="heading-desc">	
 							     	<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>					       		
-					       		<a href="#" class="button button-icon button-icon-demo">Read More</a>
+					       		<a href="#" class="button button-icon button-icon-demo">Leia mais</a>
 					       		</div>					
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
@@ -119,7 +119,7 @@
 						</div> 
 						    <div class="heading-desc">	
 							     	<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
-					       		<a href="#" class="button button-icon button-icon-demo">Read More</a>
+					       		<a href="#" class="button button-icon button-icon-demo">Leia mais</a>
 					       		</div>					
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
@@ -134,7 +134,7 @@
 						</div> 
 						    <div class="heading-desc">	
 							     	<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
-					       		<a href="#" class="button button-icon button-icon-demo">Read More</a>
+					       		<a href="#" class="button button-icon button-icon-demo">Leia mais</a>
 					       		</div>
 				    </div>
 			   </div>
@@ -158,9 +158,6 @@
 		  						<li>Lorem ipsum dolor sit amet qui officia</li>
 		  						<li>Duis aute irure dolor in culpa qui</li>
 		  						<li>Sunt in culpa qui officia vel illum qui</li>
-		  						<li>vel illum qui dolorem eum wise man therefore</li>
-		  						<li>The wise man therefore in culpa qui officia</li>
-		  						<li>Sunt in culpa qui officia culpa qui officia</li>
 		  			        </ul>
 						</div>					
 						<div class="col_1_of_3 span_1_of_3">
