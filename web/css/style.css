@@ -47,7 +47,7 @@ img{max-width:100%;}
  }
  .header_top{
  	background:#222;
- 	border-bottom:2px solid #00A1DA;
+ 	border-bottom:2px solid #FDCC28;
  	padding:5px 0;
  }
   .logo{
@@ -60,7 +60,7 @@ img{max-width:100%;}
  }
  .dail h4{
  	font-size:1.8em;
- 	color:#00A1DA;
+ 	color:#FDCC28;
  	padding-bottom:5px;
  }
  .dail p{
@@ -99,7 +99,7 @@ img{max-width:100%;}
 	transition: all 0.5s ease-in-out;	
 }
 .menu li a:hover,.menu li.active a{
-	background:#00A1DA;	
+	background:#FDCC28;	
 	color:#FFF;
 }
 /** Social Icons **/
@@ -216,12 +216,12 @@ img{max-width:100%;}
 	margin:25px 0
 }
 .num-heading{
-	border-top:1px solid #00A1DA;
+	border-top:1px solid #FDCC28;
 }
 .number{
 	float: left;
 	padding:0 15px;
-	background:#00A1DA;
+	background:#FDCC28;
 	display: inline-block;
 	text-align: center;
 }
@@ -268,7 +268,7 @@ img{max-width:100%;}
 }
 .button {
 	display: inline-block;
-	background: #10A0D5;
+	background: #FDCC28;
 	color: #FFF;
 	text-decoration: none;
 	border-radius:3px;
@@ -309,7 +309,7 @@ img{max-width:100%;}
 	padding:1.5%; 
 }
 .span_1_of_3  h3{
-	color:#03769E;
+	color:#222;
 	margin-bottom:0.3em;
 	font-size:2em;
 	line-height: 1.2;
@@ -331,7 +331,7 @@ img{max-width:100%;}
 	cursor:pointer;
 }
 .span_1_of_3 li:hover{
-    color:#00A1DA;
+    color:#FDCC28;
 }
 .span_1_of_3 img{
 	border:1px solid #ECECEC;
@@ -388,7 +388,7 @@ img{max-width:100%;}
 	padding:3px 0;
 }
  .post p span a{
-	color:#00A1DA;
+	color:#FDCC28;
 	font-size:1em;
 	cursor:pointer;
  }
@@ -469,7 +469,7 @@ img{max-width:100%;}
 	text-decoration:underline;
  }
   .copy_right p a:hover{
-	color:#00A1DA;
+	color:#FDCC28;
 	text-decoration:none;
  }
 /* About */
@@ -525,7 +525,7 @@ img{max-width:100%;}
 	display:block;
 }
 .span_3_of_2  p span{
-	color:#00A1DA;
+	color:#FDCC28;
 	margin-bottom:0.3em;
 	font-size:1em;
 	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
@@ -566,7 +566,7 @@ img{max-width:100%;}
 	border:1px solid #EBEBEB;
 }
 .images_1_of_3  h3{
-	color:#00A1DA;
+	color:#FDCC28;
 	margin-top:0.4em;
 	margin-bottom:0.2em;
 	font-size:1.5em;
@@ -586,7 +586,7 @@ img{max-width:100%;}
 	cursor:pointer;
 }
 .choose_us li:hover{
-	color:#00A1DA;
+	color:#FDCC28;
 	background:url(../images/list_img-hover.png) no-repeat 0;
 }
 /***** Latest comments *******/
@@ -608,7 +608,7 @@ img{max-width:100%;}
 	padding:3px 0;
 }
 .latest_comments h4 a{
-	color:#00A1DA;
+	color:#FDCC28;
 	font-size: 0.8em;
 	font-style:italic;
 }
