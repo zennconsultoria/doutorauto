@@ -15,6 +15,9 @@ $email_id = "contato@doutorauto.com.br";
 $link_facebook = "http://www.facebook.com/doutorautooficial";
 $link_twitter = "http://www.twitter.com/doutorautooficial";
 $link_google = "http://www.google.com/+doutorautooficial";
-$link_pin = "http://www.pinterest.com/doutorautooficial";
+$link_pinterest = "http://www.pinterest.com/doutorautooficial";
+$link_dribble = "#";
+$link_vimeo = "#";
+$link_youtube = "http://www.youtube.com/doutorautooficial";
 $link_email = "mailto:contato@doutorauto.com.br";
 ?>

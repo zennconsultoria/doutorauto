@@ -13,7 +13,7 @@ include "app/detect.php";
 if ($page_name=='') {
 	include $browser_t.'/index.php';
 	}
-elseif ($page_name=='index.html') {
+elseif ($page_name=='index.php') {
 	include $browser_t.'/index.php';
 	}
 elseif ($page_name=='about.html') {
@@ -22,8 +22,11 @@ elseif ($page_name=='about.html') {
 elseif ($page_name=='services.html') {
 	include $browser_t.'/services.html';
 	}
-elseif ($page_name=='blog.html') {
-	include $browser_t.'/blog.html';
+elseif ($page_name=='news.html') {
+	include $browser_t.'/news.html';
+	}
+elseif ($page_name=='team.html') {
+	include $browser_t.'/team.html';
 	}
 elseif ($page_name=='contact.html') {
 	include $browser_t.'/contact.html';

@@ -11,6 +11,10 @@ Supports Thumbs: true
 	 -webkit-box-shadow: 0px 1px 5px 0px #4a4a4a;
     -moz-box-shadow: 0px 1px 5px 0px #4a4a4a;
     box-shadow: 0px 1px 5px 0px #4a4a4a;
+    max-width: 960px;
+    margin: 0 auto;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
 }
 .theme-default .nivoSlider {
 	position:relative;
@@ -83,7 +87,7 @@ Supports Thumbs: true
 .nivoSlider {
 	position:relative;
 	width:100%;
-	height:auto;
+	height: auto;
 	overflow: hidden;
 }
 .nivoSlider img {

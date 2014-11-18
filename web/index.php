@@ -36,11 +36,12 @@
 	    	<div class="wrap">
 		     <div class="menu">
 					    <ul>
-							<li class="active"><a href="index.html">Home</a></li>
-							<li><a href="about.html">Sobre</a></li>
-							<li><a href="services.html">Serviços</a></li>
-							<li><a href="blog.html">Equipe</a></li>
-							<li><a href="contact.html">Contato</a></li>
+							<li class="active"><a href="index.php">Home</a></li>
+							<li><a href="#">Sobre</a></li>
+							<li><a href="#">Serviços</a></li>
+							<li><a href="#">Notícias</a></li>
+							<li><a href="#">Equipe</a></li>
+							<li><a href="#">Contato</a></li>
 							<div class="clear"></div>
 						</ul>
 					</div>
@@ -49,16 +50,30 @@
 		                    <li><a class="facebook" href="<?=$link_facebook?>" target="_blank"> </a></li>
 		                    <li><a class="twitter" href="<?=$link_twitter?>" target="_blank"></a></li>
 		                    <li><a class="googleplus" href="<?=$link_google?>" target="_blank"></a></li>
-		                    <li><a class="pinterest" href="<?=$link_pin?>" target="_blank"></a></li>
-		                    <!--<li><a class="dribbble" href="#" target="_blank"></a></li>
-		                    <li><a class="vimeo" href="#" target="_blank"></a></li>-->
+		                    <!--<li><a class="pinterest" href="<?=$link_pinterest?>" target="_blank"></a></li>
+		                    <li><a class="dribbble" href="<?=$link_dribble?>" target="_blank"></a></li>
+		                    <li><a class="vimeo" href="<?=$link_vimeo?>" target="_blank"></a></li>-->
+		                    <li><a class="youtube" href="<?=$link_youtube?>" target="_blank"></a></li>
 		                    <div class="clear"></div>
 		                </ul>
 		 		    </div>
 		 		    <div class="clear"></div>
 		 		     </div>
                </div>
-		  </div>				
+		  </div><br>
+		  
+		  <?php
+		  
+		  $page = $_GET['p'];
+		  
+		  	if($page == 'about'){
+			  	echo 'sobre';
+		  	}
+			elseif($page == 'services'){
+				echo 'serviços';
+		  	}  	else  	{
+			  	?>
+		  				
 			    	<!--- Slider --->				
      <div class="slider">
       <div class="slider-wrapper theme-default">
@@ -185,7 +200,8 @@
 			   </div>
 		    </div>
 		</div> 
-		</div>  
+		</div>
+		<?php }; ?>  
    <div class="footer">
    	 <div class="wrap">
    	 <div class="footer_grides">
